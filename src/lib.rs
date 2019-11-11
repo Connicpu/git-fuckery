@@ -1,3 +1,3 @@
 pub fn foo() -> i32 {
-    unimplemented!()
+    42
 }
